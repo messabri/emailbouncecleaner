@@ -8,7 +8,7 @@ Verify that PHP is installed on your system. You can check this by running php -
 Run the Script:  
 Open your terminal and navigate to the directory where you've placed the bnc.php script.  
 Execute the script using the following command:  
-Bash  
+```Bash  
 php bnc.php  
 
 
