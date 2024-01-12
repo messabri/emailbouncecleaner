@@ -10,7 +10,7 @@ Open your terminal and navigate to the directory where you've placed the bnc.php
 Execute the script using the following command:  
 ```Bash  
 php bnc.php  
-
+```
 
 ## Input and Output
 
