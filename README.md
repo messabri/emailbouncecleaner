@@ -1,15 +1,15 @@
 # Email Bounce Cleaner
 
 ## Installation and Usage
-Verify Port 25:
-Ensure that port 25 is open on your system to enable email communication. You can check this using a tool like telnet or nmap.
-Check PHP Installation:
-Verify that PHP is installed on your system. You can check this by running php -v in your terminal. If it's not installed, download and install it from the official PHP website (https://www.php.net/).
-Run the Script:
-Open your terminal and navigate to the directory where you've placed the bnc.php script.
-Execute the script using the following command:
-Bash
-php bnc.php
+Verify Port 25:  
+Ensure that port 25 is open on your system to enable email communication. You can check this using a tool like telnet or nmap.  
+Check PHP Installation:  
+Verify that PHP is installed on your system. You can check this by running php -v in your terminal. If it's not installed, download and install it from the official PHP website (https://www.php.net/).  
+Run the Script:  
+Open your terminal and navigate to the directory where you've placed the bnc.php script.  
+Execute the script using the following command:  
+Bash  
+php bnc.php  
 
 
 ## Input and Output
