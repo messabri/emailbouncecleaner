@@ -1,4 +1,3 @@
-# emailbouncecleaner
 # Email Bounce Cleaner
 
 ## Installation and Usage
